@@ -1,0 +1,3 @@
+ly2和savememo2用于管理界面的我要留言和存储留言，功能与ly和savememo作用差不多。
+magege.jsp与main.jsp显示基本一样，只不过在magege.jsp界面中多了删除按钮。
+留言板主体程序就是main.jsp,savememo.jsp和delete.jsp.
